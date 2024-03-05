@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=window.wp.blocks,o=window.wp.element,i=window.wp.blockEditor;(0,e.registerBlockType)("wpmovies/movie-runtime",{edit:()=>(0,o.createElement)("span",(0,i.useBlockProps)(),"2h 42m"),save:()=>null})})();

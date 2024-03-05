@@ -1,0 +1,1 @@
+(()=>{const{store:e}=window.__experimentalInteractivity;e({selectors:{wpmovies:{isPlaying:e=>{let{state:t}=e;return""!==t.wpmovies.currentVideo}}},actions:{wpmovies:{closeVideo:e=>{let{state:t}=e;t.wpmovies.currentVideo=""},setVideo:e=>{let{state:t,context:o}=e;t.wpmovies.currentVideo="https://www.youtube.com/embed/"+o.videoId+"?autoplay=1"}}}})})();

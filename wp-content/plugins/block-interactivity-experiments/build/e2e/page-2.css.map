@@ -1,0 +1,1 @@
+{"version":3,"file":"e2e/page-2.css","mappings":"AAAA;CACC,qBAAqB;AACtB","sources":["webpack://__experimentalInteractivity/./e2e/page-2/style.css"],"sourcesContent":["h1 {\n\tcolor: rgb(0, 0, 255);\n}\n"],"names":[],"sourceRoot":""}
